@@ -60,14 +60,12 @@ body {
   }
 }
 
-
 @media (min-width: 768px) {
   .container {
     width: 20%;
     height: 55vh;
   }
 }
-
 
 @media (min-width: 992px) {
   .container {
@@ -76,13 +74,12 @@ body {
   }
 }
 
-
 @media (min-width: 1200px) {
   .container {
     width: 20%;
     height: 55vh;
   }
-
+}
 @media (min-width: 1400px) {
   .container {
     width: 20%;
