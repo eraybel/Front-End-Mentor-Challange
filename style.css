@@ -42,7 +42,7 @@ body {
   color: var(--grayish-blue);
 }
 /* img */
-.img-area {
+.img-area img {
   width: 100%;
   background: url(/images/image-qr-code.png);
   height: 275px;
