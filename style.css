@@ -44,7 +44,7 @@ body {
 /* img */
 .img-area {
   width: 100%;
-  background: url(QR-code-component/images/image-qr-code.png);
+  background: url(https://github.com/eraybel/QR-code-component/blob/QR-code-component/images/image-qr-code.png);
   height: 275px;
   background-position: center;
   background-repeat: no-repeat;
